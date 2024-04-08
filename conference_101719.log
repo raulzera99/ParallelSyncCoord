@@ -1,0 +1,1076 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.4)  2 APR 2024 14:04
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex"
+(c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+(IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box52
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen164
+)) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks19
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks20
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\c@ALC@unique=\count278
+\c@ALC@line=\count279
+\c@ALC@rem=\count280
+\c@ALC@depth=\count281
+\ALC@tlm=\skip54
+\algorithmicindent=\skip55
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count282
+\lst@gtempboxa=\box55
+\lst@token=\toks24
+\lst@length=\count283
+\lst@currlwidth=\dimen175
+\lst@column=\count284
+\lst@pos=\count285
+\lst@lostspace=\dimen176
+\lst@width=\dimen177
+\lst@newlines=\count286
+\lst@lineno=\count287
+\lst@maxwidth=\dimen178
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count288
+\lst@skipnumbers=\count289
+\lst@framebox=\box56
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count290
+\l__pdf_internal_box=\box57
+) (conference_101719.aux)
+\openout1 = `conference_101719.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+-- Lines per column: 56 (exact).
+(C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen179
+\scratchbox=\box58
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen180
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks26
+) (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count297
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation `WikipediaDataMining' on page 1 undefined on input line 96.
+
+
+LaTeX Warning: Citation `Zaki2023' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Citation `Statista2023' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `Russell2016' on page 1 undefined on input line 108.
+
+
+LaTeX Warning: Citation `ScikitLearn2023' on page 1 undefined on input line 115.
+
+
+LaTeX Warning: Citation `Jurafsky2020' on page 1 undefined on input line 118.
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 124--132
+\OT1/ptm/m/n/10 de da-dos, descri[][]ao das car-ac-ter[]^^Psticas e abor-da-gens de
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 143--145
+[]\OT1/ptm/b/n/10 battery[]power: \OT1/ptm/m/n/10 Pot[]encia da ba-te-ria do dis-pos-i-tivo
+ []
+
+[1{C:/Users/raulp/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+]
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:190: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 e seu preço de mercado. ​
+                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 205--209
+ \OT1/ptm/m/it/10 1) Limpeza de Da-dos: [][] \OT1/ptm/m/n/10 Ini-cial-mente, re-al-izamos uma
+ []
+
+(C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 210.
+ (C:\Users\raulp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <8> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 213.
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:232: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 # Mostra as informações 
+                                do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:232: LaTeX Error: Invalid UTF-8 byte "A7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 # Mostra as informações 
+                                do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:232: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 # Mostra as informações 
+                                do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:232: LaTeX Error: Invalid UTF-8 byte "B5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 # Mostra as informações 
+                                do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:235: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235 # Mostra a descrição 
+                             do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:235: LaTeX Error: Invalid UTF-8 byte "A7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235 # Mostra a descrição 
+                             do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:235: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235 # Mostra a descrição 
+                             do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:235: LaTeX Error: Invalid UTF-8 byte "A3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235 # Mostra a descrição 
+                             do dataframe concatenado
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:247: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 \vspace
+             {5mm}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--276
+ \OT1/ptm/m/it/10 2) Normaliza[][]ao dos Da-dos: [][] \OT1/ptm/m/n/10 No note-book
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--276
+\OT1/ptm/m/n/10 `data[]normalization.ipynb`, nor-mal-izamos as vari[]aveis
+ []
+
+[2]
+Underfull \hbox (badness 1852) in paragraph at lines 373--375
+\OT1/ptm/m/n/10 dois com-po-nentes (visualiza[][]ao 2d) e tr[]es com-po-nentes
+ []
+
+[3]
+Underfull \hbox (badness 8189) in paragraph at lines 449--453
+[]\OT1/ptm/m/n/10 Os gr[]aficos re-sul-tantes da PCA, es-pe-cial-mente as
+ []
+
+<matrix_correlation.png, id=19, 1101.11375pt x 763.85374pt>
+File: matrix_correlation.png Graphic file (type png)
+<use matrix_correlation.png>
+Package pdftex.def Info: matrix_correlation.png  used on input line 576.
+(pdftex.def)             Requested size: 220.21884pt x 152.76804pt.
+<xzscore-pca-2d.png, id=21, 1175.39125pt x 725.71124pt>
+File: xzscore-pca-2d.png Graphic file (type png)
+<use xzscore-pca-2d.png>
+Package pdftex.def Info: xzscore-pca-2d.png  used on input line 592.
+(pdftex.def)             Requested size: 235.07408pt x 145.13968pt.
+<min_max-pca-2d.png, id=22, 1191.45125pt x 725.71124pt>
+File: min_max-pca-2d.png Graphic file (type png)
+<use min_max-pca-2d.png>
+Package pdftex.def Info: min_max-pca-2d.png  used on input line 598.
+(pdftex.def)             Requested size: 238.28603pt x 145.13968pt.
+<xzscore-pca-3d.png, id=23, 684.5575pt x 689.57625pt>
+File: xzscore-pca-3d.png Graphic file (type png)
+<use xzscore-pca-3d.png>
+Package pdftex.def Info: xzscore-pca-3d.png  used on input line 604.
+(pdftex.def)             Requested size: 273.81815pt x 275.8256pt.
+<min_max-pca-3d.png, id=24, 684.5575pt x 689.57625pt>
+File: min_max-pca-3d.png Graphic file (type png)
+<use min_max-pca-3d.png>
+Package pdftex.def Info: min_max-pca-3d.png  used on input line 610.
+(pdftex.def)             Requested size: 273.81815pt x 275.8256pt.
+
+LaTeX Warning: Citation `Han2011' on page 4 undefined on input line 629.
+
+
+LaTeX Warning: Citation `Witten2011' on page 4 undefined on input line 635.
+
+
+LaTeX Warning: Citation `Fayyad1996' on page 4 undefined on input line 641.
+
+[4 <./matrix_correlation.png>] [5 <./xzscore-pca-2d.png> <./min_max-pca-2d.png> <./xzscore-pca-3d.png> <./min_max-pca-3d.png>]
+
+LaTeX Warning: Citation `Alpaydin2020' on page 6 undefined on input line 657.
+
+
+LaTeX Warning: Citation `Bishop2006' on page 6 undefined on input line 662.
+
+
+LaTeX Warning: Citation `Haykin2009' on page 6 undefined on input line 675.
+
+
+LaTeX Warning: Citation `LeCun2015' on page 6 undefined on input line 681.
+
+
+LaTeX Warning: Citation `Bishop2006' on page 6 undefined on input line 695.
+
+
+LaTeX Warning: Citation `Mohri2018' on page 6 undefined on input line 702.
+
+
+LaTeX Warning: Citation `Hinton2006' on page 6 undefined on input line 705.
+
+
+LaTeX Warning: Citation `Sutton2018' on page 6 undefined on input line 708.
+
+
+LaTeX Warning: Citation `LeCun2015' on page 6 undefined on input line 711.
+
+
+LaTeX Warning: Citation `Haykin2009' on page 6 undefined on input line 717.
+
+
+LaTeX Warning: Citation `Goodfellow2016' on page 6 undefined on input line 723.
+
+
+LaTeX Warning: Citation `Schmidhuber2015' on page 6 undefined on input line 727.
+
+
+LaTeX Warning: Citation `LeCun2015' on page 6 undefined on input line 731.
+
+
+LaTeX Warning: Citation `Graves2013' on page 6 undefined on input line 738.
+
+
+LaTeX Warning: Citation `Sutskever2014' on page 6 undefined on input line 740.
+
+
+LaTeX Warning: Citation `Elman1990' on page 6 undefined on input line 745.
+
+
+LaTeX Warning: Citation `Hochreiter1997' on page 6 undefined on input line 751.
+
+
+LaTeX Warning: Citation `Cho2014' on page 6 undefined on input line 751.
+
+[6]
+
+LaTeX Warning: Citation `LeCun2015' on page 7 undefined on input line 759.
+
+
+LaTeX Warning: Citation `Krizhevsky2012' on page 7 undefined on input line 763.
+
+
+LaTeX Warning: Citation `Goodfellow2016' on page 7 undefined on input line 765.
+
+
+LaTeX Warning: Citation `Russakovsky2015' on page 7 undefined on input line 768.
+
+
+LaTeX Warning: Citation `Kim2014' on page 7 undefined on input line 771.
+
+
+LaTeX Warning: Citation `LeCun2015' on page 7 undefined on input line 779.
+
+
+LaTeX Warning: Citation `Schmidhuber2015' on page 7 undefined on input line 783.
+
+
+LaTeX Warning: Citation `Goodfellow2016' on page 7 undefined on input line 788.
+
+
+LaTeX Warning: Citation `Zhang2018' on page 7 undefined on input line 791.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Citation `Krippendorff2013' on page 7 undefined on input line 832.
+
+
+LaTeX Warning: Citation `Etikan2016' on page 7 undefined on input line 836.
+
+
+LaTeX Warning: Citation `Lopez2018' on page 7 undefined on input line 847.
+
+
+LaTeX Warning: Citation `Crockford2006' on page 7 undefined on input line 860.
+
+
+LaTeX Warning: Citation `Reitz2016' on page 7 undefined on input line 870.
+
+[7]
+
+LaTeX Warning: Citation `Richardson2007' on page 8 undefined on input line 876.
+
+
+LaTeX Warning: Citation `Grinberg2018' on page 8 undefined on input line 882.
+
+
+LaTeX Warning: Citation `Bird2009' on page 8 undefined on input line 887.
+
+
+LaTeX Warning: Citation `Abadi2016' on page 8 undefined on input line 892.
+
+
+LaTeX Warning: Citation `Chollet2015' on page 8 undefined on input line 894.
+
+
+LaTeX Warning: Citation `Hunter2007' on page 8 undefined on input line 900.
+
+
+LaTeX Warning: Citation `Harris2020' on page 8 undefined on input line 905.
+
+
+LaTeX Warning: Citation `Sokolova2009' on page 8 undefined on input line 935.
+
+
+LaTeX Warning: Citation `Davis2006' on page 8 undefined on input line 939.
+
+
+LaTeX Warning: Citation `Manning1999' on page 8 undefined on input line 941.
+
+
+LaTeX Warning: Citation `VanRijsbergen1979' on page 8 undefined on input line 943.
+
+
+LaTeX Warning: Citation `Bengio2012' on page 8 undefined on input line 947.
+
+
+LaTeX Warning: Citation `Reichheld2003' on page 8 undefined on input line 954.
+
+
+LaTeX Warning: Citation `Chollet2017' on page 8 undefined on input line 973.
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 969--974
+[]\OT1/ptm/m/n/10 O de-sen-volvi-mento do chat-bot as-sis-tivo en-volveu a
+ []
+
+
+LaTeX Warning: Citation `Goodfellow2016' on page 8 undefined on input line 980.
+
+
+LaTeX Warning: Citation `Bishop2006' on page 8 undefined on input line 983.
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 982--984
+[]\OT1/ptm/b/n/10 Camada de Sa[]^^Pda: \OT1/ptm/m/n/10 Neur[]onios cor-re-spon-dentes ao
+ []
+
+[8]
+
+LaTeX Warning: Citation `Srivastava2014' on page 9 undefined on input line 987.
+
+
+LaTeX Warning: Citation `Sutskever2013' on page 9 undefined on input line 989.
+
+
+LaTeX Warning: Citation `Goodfellow2016' on page 9 undefined on input line 993.
+
+
+LaTeX Warning: Citation `Bengio2012' on page 9 undefined on input line 995.
+
+
+LaTeX Warning: Citation `Manning1999' on page 9 undefined on input line 1001.
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 998--1002
+[]\OT1/ptm/m/n/10 Ap[]os o treina-mento, o mod-elo foi salvo no for-mato
+ []
+
+<chat.png, id=46, 925.95938pt x 502.87875pt>
+File: chat.png Graphic file (type png)
+<use chat.png>
+Package pdftex.def Info: chat.png  used on input line 1042.
+(pdftex.def)             Requested size: 250.01237pt x 135.77907pt.
+
+LaTeX Warning: Citation `Sokolova2009' on page 9 undefined on input line 1060.
+
+<accuracy.png, id=47, 423.08063pt x 335.75438pt>
+File: accuracy.png Graphic file (type png)
+<use accuracy.png>
+Package pdftex.def Info: accuracy.png  used on input line 1066.
+(pdftex.def)             Requested size: 211.5398pt x 167.87677pt.
+<loss.png, id=48, 411.03563pt x 333.49594pt>
+File: loss.png Graphic file (type png)
+<use loss.png>
+Package pdftex.def Info: loss.png  used on input line 1072.
+(pdftex.def)             Requested size: 205.5173pt x 166.74756pt.
+
+LaTeX Warning: Citation `Hastie2009' on page 9 undefined on input line 1081.
+
+[9 <./chat.png>]
+
+LaTeX Warning: Citation `Laranjo2018' on page 10 undefined on input line 1086.
+
+
+LaTeX Warning: Citation `McTear2016' on page 10 undefined on input line 1086.
+
+
+LaTeX Warning: Citation `Young2018' on page 10 undefined on input line 1091.
+
+
+LaTeX Warning: Citation `Goggin2003' on page 10 undefined on input line 1098.
+
+
+LaTeX Warning: Citation `Chowdhary2020' on page 10 undefined on input line 1112.
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 1109--1113
+[]\OT1/ptm/m/n/10 Durante o de-sen-volvi-mento do chat-bot as-sis-tivo, en-
+ []
+
+
+LaTeX Warning: Citation `Devlin2019' on page 10 undefined on input line 1117.
+
+
+LaTeX Warning: Citation `Hastie2009' on page 10 undefined on input line 1121.
+
+
+LaTeX Warning: Citation `Picard2000' on page 10 undefined on input line 1126.
+
+
+LaTeX Warning: Citation `McTear2016' on page 10 undefined on input line 1128.
+
+
+LaTeX Warning: Citation `Young2018' on page 10 undefined on input line 1148.
+
+[10 <./accuracy.png> <./loss.png>]
+
+LaTeX Warning: Citation `McTear2016' on page 11 undefined on input line 1156.
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 1170--1171
+[]\OT1/ptm/m/n/8 M. Mercier. "O que []e uma rede neu-ral pro-funda?". Bot-press,
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 1186--1187
+[]\OT1/ptm/m/n/8 K. Cho et al., "Learn-ing phrase rep-re-sen-ta-tions us-ing RNN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1209--1210
+[]\OT1/ptm/m/n/8 D. Crock-ford, "The ap-pli-ca-tion/j-son Me-dia Type for
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 1209--1210
+\OT1/ptm/m/n/8 JavaScript Ob-ject No-ta-tion (JSON)", 2006. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 1210--1211
+[]\OT1/ptm/m/n/8 M. Abadi et al., "Ten-sor-Flow: Large-Scale Ma-chine Learn-ing
+ []
+
+[11]
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1238: Missing $ inserted.
+<inserted text> 
+                $
+l.1238 ... em: https://en.wikipedia.org/wiki/Data_
+                                                  mining.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1239: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1239     \bibitem{Zaki2023}
+                              M. J. Zaki, "DATA MINING AND MACHINE LEARNING ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1239: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1239     \bibitem{Zaki2023}
+                              M. J. Zaki, "DATA MINING AND MACHINE LEARNING ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1239: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1239     \bibitem{Zaki2023}
+                              M. J. Zaki, "DATA MINING AND MACHINE LEARNING ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1239: Misplaced alignment tab character &.
+l.1239 ... LEARNING - Cambridge University Press &
+                                                   Assessment", 2023. [Onlin...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 1239.
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1239: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.1239 ...Online; accessed 7-April-2024]. Disponí
+                                                  vel em: https://www.cambri...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1239: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.1239 ...Online; accessed 7-April-2024]. Disponí
+                                                  vel em: https://www.cambri...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 1239.
+
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1240: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1240     \bibitem{Statista2023}
+                                  "Smartphone market shares by vendor 2009-2...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1240: Missing $ inserted.
+<inserted text> 
+                $
+l.1240     \bibitem{Statista2023}
+                                  "Smartphone market shares by vendor 2009-2...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1240: Missing } inserted.
+<inserted text> 
+                }
+l.1240     \bibitem{Statista2023}
+                                  "Smartphone market shares by vendor 2009-2...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1240: Missing } inserted.
+<inserted text> 
+                }
+l.1240     \bibitem{Statista2023}
+                                  "Smartphone market shares by vendor 2009-2...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1240
+[]\OT1/ptm/m/n/8 "Data min-ing", Wikipedia, The Free En-cy-clo-pe-dia,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1240
+\OT1/ptm/m/n/8 2023. [On-line; ac-cessed 7-April-2024]. Dispon[]^^Pvel em:
+ []
+
+
+Overfull \hbox (142.84534pt too wide) in paragraph at lines 1238--1240
+\OT1/ptm/m/n/8 https://en.wikipedia.org/wiki/Data$[]\OML/cmm/m/it/8 ining:M:J:Zaki; \OT1/cmr/m/n/8 "\OML/cmm/m/it/8 DATAMININGANDMACHINELEARNING \OMS/cmsy/m/n/8 ^^@
+ []
+
+
+Overfull \hbox (20.73776pt too wide) in paragraph at lines 1238--1240
+\OML/cmm/m/it/8 CambridgeUniversityPressAssessment\OT1/cmr/m/n/8 "\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 2023\OML/cmm/m/it/8 :\OT1/cmr/m/n/8 [\OML/cmm/m/it/8 Online\OT1/cmr/m/n/8 ; \OML/cmm/m/it/8 accessed\OT1/cmr/m/n/8 7 \OMS/cmsy/m/n/8 ^^@
+ []
+
+
+Overfull \hbox (827.74394pt too wide) in paragraph at lines 1238--1240
+\OML/cmm/m/it/8 April \OMS/cmsy/m/n/8 ^^@ \OT1/cmr/m/n/8 2024]\OML/cmm/m/it/8 :Dispon[]$ 
+ []
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1240: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.1240     \bibitem{Statista2023}
+                                  "Smartphone market shares by vendor 2009-2...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1241
+[]\OT1/ptm/m/n/8 "Smartphone mar-ket shares by ven-dor 2009-2023", Statista,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1241
+\OT1/ptm/m/n/8 2023. [On-line; ac-cessed 7-April-2024]. Dispon[]^^Pvel em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1241
+\OT1/ptm/m/n/8 https://www.statista.com/statistics/271496/global-market-share-held-by-
+ []
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1241: Missing $ inserted.
+<inserted text> 
+                $
+l.1241 ...ps://scikit-learn.org/stable/supervised_
+                                                  learning.html.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1242: Missing $ inserted.
+<inserted text> 
+                $
+l.1242 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1242: Missing } inserted.
+<inserted text> 
+                }
+l.1242 
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 1241--1242
+[]\OT1/ptm/m/n/8 "1. Su-per-vised learn-ing | scikit-learn 1.4.1 doc-u-men-ta-tion", Scikit-
+ []
+
+c:/Users/raulp/OneDrive - ifsp.edu.br/FACUL/9° Semestre/Mineração de Dados/mobile_price_classification/mobile_price_latex/conference_101719.tex:1242: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.1242 
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[12
+
+] (conference_101719.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6267 strings out of 474824
+ 94276 string characters out of 5750978
+ 2386043 words of memory out of 5000000
+ 28157 multiletter control sequences out of 15000+600000
+ 602485 words of font info for 129 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,65p,554b,1589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_101719.pdf (12 pages, 1157439 bytes).
+PDF statistics:
+ 119 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
