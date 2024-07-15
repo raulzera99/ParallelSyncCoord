@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.4)  8 APR 2024 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.4)  15 JUL 2024 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -327,31 +327,31 @@ Underfull \hbox (badness 3291) in paragraph at lines 132--144
 
 
 ]
-Underfull \hbox (badness 5331) in paragraph at lines 181--182
+Underfull \hbox (badness 5331) in paragraph at lines 204--209
 []\OT1/ptm/m/n/10 Um ex-em-plo pr[]atico da aplica[][]ao de bar-reiras de
  []
 
 
-Underfull \hbox (badness 2253) in paragraph at lines 203--204
+Underfull \hbox (badness 2253) in paragraph at lines 252--256
 \OT1/ptm/m/n/10 de sincroniza[][]ao ado-tadas. Esta se[][]ao ex-plora como a
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 217--218
+Underfull \hbox (badness 4739) in paragraph at lines 290--291
 []\OT1/ptm/m/n/10 An[]alise de sis-temas reais e suas abor-da-gens de
  []
 
 
-LaTeX Warning: Citation `love2010linux' on page 2 undefined on input line 223.
+LaTeX Warning: Citation `love2010linux' on page 2 undefined on input line 305.
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 223--224
+Underfull \hbox (badness 4886) in paragraph at lines 298--306
 []\OT1/ptm/m/n/10 Um ex-em-plo cl[]assico de aplica[][]ao de t[]ecnicas de
  []
 
 [2]
 
-LaTeX Warning: Citation `gregory2014game' on page 3 undefined on input line 229.
+LaTeX Warning: Citation `gregory2014game' on page 3 undefined on input line 323.
 
 
 ** Conference Paper **
@@ -384,9 +384,9 @@ Here is how much of TeX's memory you used:
  27479 multiletter control sequences out of 15000+600000
  595574 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,980b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,354b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/raulp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (3 pages, 87341 bytes).
+Output written on conference_101719.pdf (3 pages, 87285 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

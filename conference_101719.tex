@@ -77,7 +77,7 @@ highlighting the transformative potential of this technology in various sectors 
 \end{abstract}
 
 \begin{IEEEkeywords}
-Mineração de Dados, Classificação de Preços, Celulares, Inteligência Artificial, Aprendizado de Máquina
+    Programação Paralela, Sistemas Distribuídos, Sincronização, Coordenação, Semáforos, Mutexes
 \end{IEEEkeywords}
 
 % Introdução:
@@ -157,18 +157,37 @@ manutenção de sistemas de alta performance \cite{hennessy2011computer}.
     \item Conceito e tipos de semáforos.
     \item Exemplos de utilização em sistemas paralelos.
 \end{itemize}
-Semáforos são mecanismos de sincronização utilizados para controlar o acesso a recursos compartilhados em ambientes de programação paralela. Eles podem ser categorizados principalmente em binários, que têm apenas dois estados (bloqueado e desbloqueado), e contadores, que permitem um número limitado de threads em uma seção crítica \cite{dijkstra1968semaphores}. 
+Semáforos são mecanismos de sincronização utilizados para controlar 
+o acesso a recursos compartilhados em ambientes de programação paralela. 
+Eles podem ser categorizados principalmente em binários, 
+que têm apenas dois estados (bloqueado e desbloqueado), 
+e contadores, que permitem um número limitado de threads 
+em uma seção crítica \cite{dijkstra1968semaphores}. 
 
-Os semáforos são amplamente utilizados em sistemas paralelos para evitar condições de corrida, garantindo que as operações sobre recursos compartilhados sejam realizadas de maneira ordenada e segura. Um exemplo clássico da utilização de semáforos é o problema dos produtores e consumidores, onde os semáforos são usados para sincronizar a produção e o consumo de itens em um buffer compartilhado \cite{tanenbaum2007modern}.
+Os semáforos são amplamente utilizados em sistemas paralelos 
+para evitar condições de corrida, garantindo que as operações 
+sobre recursos compartilhados sejam realizadas de maneira ordenada e segura. 
+Um exemplo clássico da utilização de semáforos é o problema dos produtores e consumidores, 
+onde os semáforos são usados para sincronizar a produção e 
+o consumo de itens em um buffer compartilhado \cite{tanenbaum2007modern}.
 
 \subsection{Mutexes}
 \begin{itemize}
     \item Definição e funcionamento.
     \item Comparação com semáforos.
 \end{itemize}
-Mutexes, ou exclusões mútuas, são outro tipo fundamental de primitivas de sincronização. Eles são projetados para garantir que apenas uma thread possa entrar em uma seção crítica de código que acessa um recurso compartilhado em um dado momento \cite{silberschatz2009operating}. Isso é feito por meio de um mecanismo de lock, onde uma thread "trava" o mutex ao entrar na seção crítica e o "destrava" após sair.
+Mutexes, ou exclusões mútuas, são outro tipo fundamental de primitivas de sincronização. 
+Eles são projetados para garantir que apenas uma thread possa entrar em uma 
+seção crítica de código que acessa um recurso compartilhado em um dado momento \cite{silberschatz2009operating}. 
+Isso é feito por meio de um mecanismo de lock, 
+onde uma thread "trava" o mutex ao entrar na seção crítica e o "destrava" após sair.
 
-Comparados aos semáforos, os mutexes são geralmente mais simples e fornecem uma maneira mais direta de garantir a exclusão mútua. Enquanto os semáforos podem ser usados para uma variedade mais ampla de cenários de sincronização, os mutexes são mais adequados para situações onde a exclusão mútua de acesso a um único recurso é o principal requisito \cite{herlihy2011art}.
+Comparados aos semáforos, os mutexes são geralmente mais simples e 
+fornecem uma maneira mais direta de garantir a exclusão mútua. 
+Enquanto os semáforos podem ser usados para uma variedade mais ampla 
+de cenários de sincronização, os mutexes são mais adequados 
+para situações onde a exclusão mútua de acesso a um 
+único recurso é o principal requisito \cite{herlihy2011art}.
 
 \subsection{Barreiras de Sincronização}
 \begin{itemize}
@@ -176,9 +195,17 @@ Comparados aos semáforos, os mutexes são geralmente mais simples e fornecem um
     \item Exemplos práticos de aplicação.
 \end{itemize}
 
-As barreiras de sincronização são utilizadas em sistemas paralelos para garantir que múltiplas threads atinjam um determinado ponto no código antes de continuar a execução. Elas são essenciais em situações onde a execução paralela de diferentes threads precisa ser sincronizada em determinados pontos \cite{grama2003introduction}.
+As barreiras de sincronização são utilizadas em sistemas paralelos 
+para garantir que múltiplas threads atinjam um determinado ponto no código 
+antes de continuar a execução. Elas são essenciais em situações onde 
+a execução paralela de diferentes threads precisa 
+ser sincronizada em determinados pontos \cite{grama2003introduction}.
 
-Um exemplo prático da aplicação de barreiras de sincronização pode ser visto em algoritmos de processamento de imagem paralelo, onde cada thread processa uma parte da imagem e todas devem concluir seu processamento antes de prosseguir para a próxima fase do algoritmo \cite{mccool2012structured}.
+Um exemplo prático da aplicação de barreiras de sincronização pode ser visto 
+em algoritmos de processamento de imagem paralelo, 
+onde cada thread processa uma parte da imagem e todas devem concluir 
+seu processamento antes de prosseguir 
+para a próxima fase do algoritmo \cite{mccool2012structured}.
 
 \section{Mecanismos de Comunicação}
 \begin{itemize}
@@ -186,13 +213,35 @@ Um exemplo prático da aplicação de barreiras de sincronização pode ser vist
     \item Exemplos de mecanismos de comunicação em sistemas distribuídos.
 \end{itemize}
 
-A comunicação eficiente entre processos é um pilar fundamental em sistemas paralelos e distribuídos. Esta seção explora os conceitos e implementações chave de mecanismos de comunicação, com foco na Comunicação Inter-Processos (IPC) e em exemplos práticos de sistemas distribuídos.
+A comunicação eficiente entre processos é um pilar fundamental 
+em sistemas paralelos e distribuídos. Esta seção explora os conceitos 
+e implementações chave de mecanismos de comunicação, 
+com foco na Comunicação Inter-Processos (IPC) e 
+em exemplos práticos de sistemas distribuídos.
 
 \subsection{Comunicação Inter-Processos (IPC)}
-A Comunicação Inter-Processos é um conjunto de técnicas e mecanismos que permitem aos processos transferir dados e informações entre si. Em sistemas operacionais multitarefa, IPC é vital para o compartilhamento de dados e a coordenação de atividades entre processos independentes. Existem várias abordagens para IPC, incluindo pipes, sockets, memória compartilhada, filas de mensagens, e semáforos, cada uma adequada para diferentes cenários e exigências de desempenho \cite{tanenbaum2007modernos}.
+A Comunicação Inter-Processos é um conjunto de técnicas e mecanismos 
+que permitem aos processos transferir dados e informações entre si. 
+Em sistemas operacionais multitarefa, IPC é vital para o compartilhamento de dados 
+e a coordenação de atividades entre processos independentes. 
+Existem várias abordagens para IPC, incluindo pipes, sockets, memória compartilhada, 
+filas de mensagens, e semáforos, cada uma adequada para diferentes cenários 
+e exigências de desempenho \cite{tanenbaum2007modernos}.
 
 \subsection{Exemplos de Mecanismos de Comunicação em Sistemas Distribuídos}
-Em sistemas distribuídos, os mecanismos de comunicação são essenciais para o gerenciamento e a coordenação de processos executados em diferentes nós de uma rede. Técnicas comuns incluem Remote Procedure Calls (RPCs), middleware orientado a mensagens, e sistemas de filas de mensagens, como o Kafka. RPCs permitem que um programa execute um procedimento em outra máquina, abstraindo as complexidades da comunicação de rede \cite{birrell1984rpc}. Middleware orientado a mensagens, como JMS (Java Message Service), facilita a comunicação assíncrona e o desacoplamento entre os componentes do sistema \cite{hohpe2004enterprise}. Por outro lado, sistemas como o Kafka são usados para processamento de fluxos de dados e mensagens em larga escala, oferecendo alta throughput e baixa latência \cite{kreps2011kafka}.
+Em sistemas distribuídos, os mecanismos de comunicação são essenciais 
+para o gerenciamento e a coordenação de processos executados 
+em diferentes nós de uma rede. 
+Técnicas comuns incluem Remote Procedure Calls (RPCs), middleware orientado a mensagens, 
+e sistemas de filas de mensagens, como o Kafka. 
+RPCs permitem que um programa execute um procedimento em outra máquina, 
+abstraindo as complexidades da comunicação de rede \cite{birrell1984rpc}. 
+Middleware orientado a mensagens, como JMS (Java Message Service), 
+facilita a comunicação assíncrona e o desacoplamento 
+entre os componentes do sistema \cite{hohpe2004enterprise}. 
+Por outro lado, sistemas como o Kafka são usados para processamento 
+de fluxos de dados e mensagens em larga escala, 
+oferecendo alta throughput e baixa latência \cite{kreps2011kafka}.
 
 \section{Implicações na Eficiência e Escalabilidade}
 \begin{itemize}
@@ -200,33 +249,78 @@ Em sistemas distribuídos, os mecanismos de comunicação são essenciais para o
     \item Desafios relacionados à escalabilidade.
 \end{itemize}
 
-A eficiência e escalabilidade de sistemas paralelos e distribuídos são profundamente influenciadas pelas estratégias de sincronização adotadas. Esta seção explora como a sincronização afeta a performance e quais são os principais desafios na escalabilidade desses sistemas.
+A eficiência e escalabilidade de sistemas paralelos e distribuídos 
+são profundamente influenciadas pelas estratégias de sincronização adotadas. 
+Esta seção explora como a sincronização afeta a performance e 
+quais são os principais desafios na escalabilidade desses sistemas.
 
 \subsection{Impacto da Sincronização na Performance dos Sistemas}
-A sincronização em sistemas paralelos e distribuídos é crucial para evitar condições de corrida e garantir a consistência dos dados. No entanto, mecanismos de sincronização, como semáforos e mutexes, podem introduzir atrasos significativos e diminuir o throughput se mal utilizados. Um uso excessivo de sincronização pode levar a um fenômeno conhecido como "lock contention", onde múltiplas threads competem pelos mesmos recursos de bloqueio, resultando em um gargalo significativo de performance \cite{herlihy2012art}.
+A sincronização em sistemas paralelos e distribuídos é crucial para evitar 
+condições de corrida e garantir a consistência dos dados. 
+No entanto, mecanismos de sincronização, como semáforos e mutexes, 
+podem introduzir atrasos significativos e diminuir o throughput se mal utilizados. 
+Um uso excessivo de sincronização pode levar a um fenômeno 
+conhecido como "lock contention", onde múltiplas threads competem 
+pelos mesmos recursos de bloqueio, 
+resultando em um gargalo significativo de performance \cite{herlihy2012art}.
 
-Além disso, estratégias inadequadas de sincronização podem causar "deadlocks" e "starvation", afetando adversamente o desempenho do sistema. Portanto, um balanceamento cuidadoso entre a consistência de dados necessária e o desempenho ótimo é essencial para a eficácia de sistemas paralelos e distribuídos \cite{andrews2000foundations}.
+Além disso, estratégias inadequadas de sincronização podem causar 
+"deadlocks" e "starvation", afetando adversamente o desempenho do sistema. 
+Portanto, um balanceamento cuidadoso entre a consistência de dados necessária 
+e o desempenho ótimo é essencial para a eficácia de 
+sistemas paralelos e distribuídos \cite{andrews2000foundations}.
 
 \subsection{Desafios Relacionados à Escalabilidade}
-A escalabilidade de sistemas paralelos e distribuídos é um desafio contínuo. À medida que o número de processadores ou nós em um sistema aumenta, a complexidade na sincronização e coordenação dos processos também cresce. Desafios críticos incluem a manutenção da consistência de dados, o gerenciamento eficiente da comunicação entre processos e a minimização do overhead causado pela sincronização \cite{coulouris2011distributed}.
+A escalabilidade de sistemas paralelos e distribuídos é um desafio contínuo. 
+À medida que o número de processadores ou nós em um sistema aumenta, 
+a complexidade na sincronização e coordenação dos processos também cresce. 
+Desafios críticos incluem a manutenção da consistência de dados, 
+o gerenciamento eficiente da comunicação entre processos e a 
+minimização do overhead causado pela sincronização \cite{coulouris2011distributed}.
 
-Sistemas altamente escaláveis requerem mecanismos de sincronização que possam se adaptar a um grande número de processos ou threads sem degradar significativamente a performance. Isso frequentemente implica o uso de técnicas de sincronização mais refinadas, como lock-free e wait-free algorithms, que podem oferecer melhor escalabilidade em sistemas de grande porte \cite{michael2004scalable}.
+Sistemas altamente escaláveis requerem mecanismos de sincronização que 
+possam se adaptar a um grande número de processos ou threads sem degradar 
+significativamente a performance. 
+Isso frequentemente implica o uso de técnicas de sincronização mais refinadas, 
+como lock-free e wait-free algorithms, que podem oferecer melhor escalabilidade 
+em sistemas de grande porte \cite{michael2004scalable}.
 
 \section{Estudo de Casos}
 \begin{itemize}
     \item Análise de sistemas reais e suas abordagens de sincronização.
 \end{itemize}
 
-Esta seção apresenta uma análise de estudos de caso relevantes, focando em como diferentes sistemas reais implementam técnicas de sincronização, e quais são os impactos e resultados dessas implementações.
+Esta seção apresenta uma análise de estudos de caso relevantes, 
+focando em como diferentes sistemas reais implementam técnicas de sincronização, 
+e quais são os impactos e resultados dessas implementações.
 
 \subsection{Estudo de Caso 1: Sincronização em Sistemas Operacionais}
-Um exemplo clássico de aplicação de técnicas de sincronização é encontrado nos sistemas operacionais modernos. O Linux, por exemplo, utiliza uma variedade de mecanismos de sincronização, incluindo semáforos, spinlocks e mutexes, para controlar o acesso a recursos compartilhados, como arquivos e estruturas de dados do núcleo. A escolha do mecanismo apropriado depende de vários fatores, incluindo a frequência de acesso ao recurso e a possibilidade de bloqueio de processos \cite{love2010linux}.
+Um exemplo clássico de aplicação de técnicas de sincronização 
+é encontrado nos sistemas operacionais modernos. 
+O Linux, por exemplo, utiliza uma variedade de mecanismos de sincronização, 
+incluindo semáforos, spinlocks e mutexes, para controlar o acesso 
+a recursos compartilhados, como arquivos e estruturas de dados do núcleo. 
+A escolha do mecanismo apropriado depende de vários fatores, 
+incluindo a frequência de acesso ao recurso e a 
+possibilidade de bloqueio de processos \cite{love2010linux}.
 
 \subsection{Estudo de Caso 2: Sincronização em Bancos de Dados Distribuídos}
-Bancos de dados distribuídos, como o Cassandra, utilizam mecanismos de sincronização para garantir a consistência e a integridade dos dados em múltiplos nós. Eles empregam técnicas como replicação baseada em quorum e mecanismos de bloqueio distribuído para gerenciar as atualizações concorrentes em diferentes localizações. Isso assegura que as operações sejam atomicamente realizadas, mantendo a alta disponibilidade e a tolerância a falhas \cite{lakshman2010cassandra}.
+Bancos de dados distribuídos, como o Cassandra, 
+utilizam mecanismos de sincronização para garantir a consistência e 
+a integridade dos dados em múltiplos nós. 
+Eles empregam técnicas como replicação baseada em quorum e 
+mecanismos de bloqueio distribuído para gerenciar as atualizações 
+concorrentes em diferentes localizações. 
+Isso assegura que as operações sejam atomicamente realizadas, 
+mantendo a alta disponibilidade e a tolerância a falhas \cite{lakshman2010cassandra}.
 
 \subsection{Estudo de Caso 3: Sincronização em Computação Gráfica}
-Nos sistemas de computação gráfica, especialmente em jogos e simulações, a sincronização é vital para garantir a fluidez e a consistência das imagens. Por exemplo, em motores gráficos como o Unreal Engine, técnicas de sincronização são empregadas para coordenar a renderização de gráficos, o processamento de física e a lógica do jogo entre diferentes threads, evitando problemas como "tearing" e latência \cite{gregory2014game}.
+Nos sistemas de computação gráfica, especialmente em jogos e simulações, 
+a sincronização é vital para garantir a fluidez e a consistência das imagens. 
+Por exemplo, em motores gráficos como o Unreal Engine, 
+técnicas de sincronização são empregadas para coordenar a renderização de gráficos, 
+o processamento de física e a lógica do jogo entre diferentes threads, 
+evitando problemas como "tearing" e latência \cite{gregory2014game}.
 
 \section{Conclusão}
 \begin{itemize}
@@ -234,13 +328,35 @@ Nos sistemas de computação gráfica, especialmente em jogos e simulações, a 
     \item Reflexões finais sobre o estado atual e futuro da área.
 \end{itemize}
 
-Esta pesquisa explorou diversos aspectos fundamentais da sincronização e coordenação em sistemas paralelos e distribuídos. As técnicas de sincronização, como semáforos, mutexes e barreiras, são vitais para a eficiência e a escalabilidade desses sistemas. Vimos que a escolha e implementação adequada destes mecanismos podem ter um impacto significativo na performance e na capacidade de um sistema de escalar eficientemente.
+Esta pesquisa explorou diversos aspectos fundamentais da sincronização e coordenação 
+em sistemas paralelos e distribuídos. 
+As técnicas de sincronização, como semáforos, mutexes e barreiras, 
+são vitais para a eficiência e a escalabilidade desses sistemas. 
+Vimos que a escolha e implementação adequada destes mecanismos 
+podem ter um impacto significativo na performance e na capacidade 
+de um sistema de escalar eficientemente.
 
-A comunicação inter-processos em sistemas distribuídos é complexa e exige uma abordagem cuidadosa para garantir eficácia e eficiência. Sistemas como o Cassandra e o Kafka demonstram a importância de escolher o mecanismo de comunicação correto para atender às necessidades específicas de cada aplicação \cite{lakshman2010cassandra, kreps2011kafka}.
+A comunicação inter-processos em sistemas distribuídos é complexa e 
+exige uma abordagem cuidadosa para garantir eficácia e eficiência. 
+Sistemas como o Cassandra e o Kafka demonstram a importância de escolher 
+o mecanismo de comunicação correto para atender às necessidades específicas 
+de cada aplicação \cite{lakshman2010cassandra, kreps2011kafka}.
 
-Os desafios na programação paralela e distribuída são muitos, mas também são oportunidades para inovação e desenvolvimento. À medida que a tecnologia avança, espera-se que novas técnicas de sincronização e mecanismos de comunicação sejam desenvolvidos para lidar com as crescentes demandas por dados e processamento. A continuação da pesquisa nesta área é crucial para avançar na criação de sistemas mais eficientes e escaláveis \cite{hennessy2011computer}.
+Os desafios na programação paralela e distribuída são muitos, 
+mas também são oportunidades para inovação e desenvolvimento. 
+À medida que a tecnologia avança, espera-se que novas técnicas de sincronização 
+e mecanismos de comunicação sejam desenvolvidos para lidar com 
+as crescentes demandas por dados e processamento. 
+A continuação da pesquisa nesta área é crucial para avançar na criação 
+de sistemas mais eficientes e escaláveis \cite{hennessy2011computer}.
 
-Por fim, este estudo ressalta a importância da constante evolução no campo da computação paralela e distribuída. Enquanto desafios persistem, as oportunidades para inovação e melhoria são abundantes. O futuro da computação paralela e distribuída é promissor e está repleto de possibilidades inexploradas que, sem dúvida, moldarão a forma como processamos e interagimos com grandes conjuntos de dados.
+Por fim, este estudo ressalta a importância da constante evolução 
+no campo da computação paralela e distribuída. 
+Enquanto desafios persistem, as oportunidades para inovação e 
+melhoria são abundantes. 
+O futuro da computação paralela e distribuída é promissor e 
+está repleto de possibilidades inexploradas que, sem dúvida, 
+moldarão a forma como processamos e interagimos com grandes conjuntos de dados.
 
 % 9. Referências
 
@@ -270,7 +386,6 @@ Por fim, este estudo ressalta a importância da constante evolução no campo da
     \bibitem{lakshman2010cassandra} A. Lakshman e P. Malik, "Cassandra: A Decentralized Structured Storage System", SIGOPS Oper. Syst. Rev., 2010.
     \bibitem{kreps2011kafka} J. Kreps, N. Narkhede, e J. Rao, "Kafka: a Distributed Messaging System for Log Processing", NetDB, 2011.
     \bibitem{hennessy2011computer} J. L. Hennessy e D. A. Patterson, "Computer Architecture: A Quantitative Approach", Elsevier, 2011.
-
 \end{thebibliography}
 
 
